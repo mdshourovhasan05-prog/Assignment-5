@@ -23,16 +23,16 @@ This is a React-based web application designed with a simple and user-friendly i
 
 Technologies Used
 
-* React.js
-* JavaScript
-* HTML
-* CSS
-* Tailwind CSS
+1. React.js
+2. JavaScript
+3. HTML
+4. CSS
+5. Tailwind CSS
 
 
-1. **Responsive Design** — The website works well on desktop, tablet, and mobile devices.
-2. **Interactive UI** — Users can interact with different buttons, sections, and components.
-3. **Dynamic Data** — The project loads and displays data dynamically using React.
+1. Responsive Design — The website works well on desktop, tablet, and mobile devices.
+2. Interactive UI — Users can interact with different buttons, sections, and components.
+3. Dynamic Data— The project loads and displays data dynamically using React.
 
 
 
