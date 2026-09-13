@@ -17,13 +17,23 @@ A child can send data back to the parent by calling a function passed through pr
 
 
 
---Technology You Can Use--
-         React.js
-    Tailwind CSS, DaisyUI
- TypeScript / JavaScript (ES6+)
-  React-Toastify (NPM Package)
-    JSON (for technology data)
-          Vite (build tool)
+## Project Description
+
+This is a React-based web application designed with a simple and user-friendly interface. The project helps users explore different sections and interact with the website easily.
+
+Technologies Used
+
+* React.js
+* JavaScript
+* HTML
+* CSS
+* Tailwind CSS
+
+
+1. **Responsive Design** — The website works well on desktop, tablet, and mobile devices.
+2. **Interactive UI** — Users can interact with different buttons, sections, and components.
+3. **Dynamic Data** — The project loads and displays data dynamically using React.
+
 
 
 Project name : DevStack
